@@ -137,3 +137,19 @@ footer p{
     }
 
 }
+
+@media(max-width: 400px){
+    .jumbotron p{
+        font-size: 17px;
+    }
+
+    section#features ul li{
+        font-size: 15px;
+    }
+    section#features img{
+        width:100%;
+    }
+    section#features h1{
+        font-size: 20px;
+    }
+}
